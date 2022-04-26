@@ -1,24 +1,23 @@
 .aClass
 {
     background-color: lightcoral;
-    font-size: large;
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 #i01
 {
     color: blue;
-    font-size: 60px;
+    font-size: 30px;
 }
 
 .coolClass
 {
-    background-color: lightcoral;
-    font-size: 30px;
+    font-size: 24px;
 }
 
 #i02
 {
     background-color: lightgreen;
-    font-size: 30px;
+    font-size: 24px;
     font-weight: bold;
 }
